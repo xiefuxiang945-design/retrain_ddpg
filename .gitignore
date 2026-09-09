@@ -1,0 +1,11 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
